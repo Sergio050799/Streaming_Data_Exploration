@@ -1,0 +1,11 @@
+Plataforma,Títulos Populares,Puntuación de Usuarios,Planes de Suscripción,Reproducción simultánea,Resolución Máxima,Días de Prueba gratuita,Compartir cuenta,Publicidad,Fecha de lanzamiento,Precio Actual,Tiene Plan Anual
+Netflix,"Engaños, Berlín",8.5,Estándar,1,Full HD,0,No,Sí,20/10/2015,6.99,False
+Netflix,"Engaños, Berlín",8.5,Estándar,2,Full HD,0,Sí,No,20/10/2015,13.99,False
+Netflix,"Engaños, Berlín",8.5,Premium,4,4K,0,Sí,No,20/10/2015,19.99,False
+Netflix,"Engaños, Berlín",8.5,Básico,1,HD,0,No,No,20/10/2015,7.99,False
+Amazon Prime Video,Culpa mía,8.0,Estándar,2,4K,30,Sí,Sí,14/12/2016,4.99,True
+Amazon Prime Video,Culpa mía,8.0,Estándar,2,4K,30,Sí,No,14/12/2016,6.98,True
+Amazon Prime Video,Culpa mía,8.0,Student,1,4K,90,No,Sí,14/12/2016,2.49,True
+HBO Max,No especificado,8.2,Estándar,2,Full HD,0,Sí,No,26/10/2021,9.99,True
+HBO Max,No especificado,8.2,Premium,4,4K,0,Sí,No,26/10/2021,13.99,True
+Apple TV+,No especificado,7.8,Estándar,1,4K HDR,7,Sí,No,01/11/2019,6.99,True
